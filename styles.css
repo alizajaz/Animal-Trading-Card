@@ -1,0 +1,33 @@
+.container {
+  width: 330px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid grey;
+  border-top-width: 3px;
+}
+h3 {
+  font-size: 40px;
+  padding: 2px;
+}
+.image {
+  padding: 12px;
+}
+.fact {
+  border: 2px solid grey;
+  margin: 5px;
+  font-family: Open Sans;
+  text-align: left;
+  padding: 5px;
+}
+.infor {
+  font-style: italic;
+}
+li {
+  list-style-type: none;
+}
+.label {
+  font-weight: bold;
+}
+.information {
+  padding: 2px;
+}
